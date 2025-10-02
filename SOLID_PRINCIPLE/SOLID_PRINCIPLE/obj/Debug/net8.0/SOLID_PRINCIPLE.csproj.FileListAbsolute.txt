@@ -1,0 +1,14 @@
+C:\Projetos\Solid\SOLID_PRINCIPLE\SOLID_PRINCIPLE\bin\Debug\net8.0\SOLID_PRINCIPLE.exe
+C:\Projetos\Solid\SOLID_PRINCIPLE\SOLID_PRINCIPLE\bin\Debug\net8.0\SOLID_PRINCIPLE.deps.json
+C:\Projetos\Solid\SOLID_PRINCIPLE\SOLID_PRINCIPLE\bin\Debug\net8.0\SOLID_PRINCIPLE.runtimeconfig.json
+C:\Projetos\Solid\SOLID_PRINCIPLE\SOLID_PRINCIPLE\bin\Debug\net8.0\SOLID_PRINCIPLE.dll
+C:\Projetos\Solid\SOLID_PRINCIPLE\SOLID_PRINCIPLE\bin\Debug\net8.0\SOLID_PRINCIPLE.pdb
+C:\Projetos\Solid\SOLID_PRINCIPLE\SOLID_PRINCIPLE\obj\Debug\net8.0\SOLID_PRINCIPLE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Solid\SOLID_PRINCIPLE\SOLID_PRINCIPLE\obj\Debug\net8.0\SOLID_PRINCIPLE.AssemblyInfoInputs.cache
+C:\Projetos\Solid\SOLID_PRINCIPLE\SOLID_PRINCIPLE\obj\Debug\net8.0\SOLID_PRINCIPLE.AssemblyInfo.cs
+C:\Projetos\Solid\SOLID_PRINCIPLE\SOLID_PRINCIPLE\obj\Debug\net8.0\SOLID_PRINCIPLE.csproj.CoreCompileInputs.cache
+C:\Projetos\Solid\SOLID_PRINCIPLE\SOLID_PRINCIPLE\obj\Debug\net8.0\SOLID_PRINCIPLE.dll
+C:\Projetos\Solid\SOLID_PRINCIPLE\SOLID_PRINCIPLE\obj\Debug\net8.0\refint\SOLID_PRINCIPLE.dll
+C:\Projetos\Solid\SOLID_PRINCIPLE\SOLID_PRINCIPLE\obj\Debug\net8.0\SOLID_PRINCIPLE.pdb
+C:\Projetos\Solid\SOLID_PRINCIPLE\SOLID_PRINCIPLE\obj\Debug\net8.0\SOLID_PRINCIPLE.genruntimeconfig.cache
+C:\Projetos\Solid\SOLID_PRINCIPLE\SOLID_PRINCIPLE\obj\Debug\net8.0\ref\SOLID_PRINCIPLE.dll
