@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SOLID_PRINCIPLE.SOLID
+namespace SOLID_PRINCIPLE
 {
     //OPEN/CLOSE PRINCIPLE
 

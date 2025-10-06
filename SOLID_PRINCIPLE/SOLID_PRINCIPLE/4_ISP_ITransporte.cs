@@ -1,11 +1,11 @@
-﻿using SOLID_PRINCIPLE.SOLID;
+﻿using SOLID_PRINCIPLE;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SOLID_PRINCIPLE.SOLID
+namespace SOLID_PRINCIPLE
 {
     // ISP Interface Segregation Principle
 
