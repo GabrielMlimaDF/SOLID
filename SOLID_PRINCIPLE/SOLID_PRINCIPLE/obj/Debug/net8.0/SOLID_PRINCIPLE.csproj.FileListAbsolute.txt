@@ -12,3 +12,4 @@ C:\Projetos\Solid\SOLID_PRINCIPLE\SOLID_PRINCIPLE\obj\Debug\net8.0\refint\SOLID_
 C:\Projetos\Solid\SOLID_PRINCIPLE\SOLID_PRINCIPLE\obj\Debug\net8.0\SOLID_PRINCIPLE.pdb
 C:\Projetos\Solid\SOLID_PRINCIPLE\SOLID_PRINCIPLE\obj\Debug\net8.0\SOLID_PRINCIPLE.genruntimeconfig.cache
 C:\Projetos\Solid\SOLID_PRINCIPLE\SOLID_PRINCIPLE\obj\Debug\net8.0\ref\SOLID_PRINCIPLE.dll
+C:\Projetos\Solid\SOLID_PRINCIPLE\SOLID_PRINCIPLE\obj\Debug\net8.0\SOLID_PRINCIPLE.sourcelink.json

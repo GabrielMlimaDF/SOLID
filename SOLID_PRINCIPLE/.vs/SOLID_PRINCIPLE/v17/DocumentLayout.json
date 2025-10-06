@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Projetos\\Solid\\SOLID_PRINCIPLE\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5513CC7A-A108-46B3-9A9D-122745A0013B}|SOLID_PRINCIPLE\\SOLID_PRINCIPLE.csproj|c:\\projetos\\solid\\solid_principle\\solid_principle\\ocp\\desconto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5513CC7A-A108-46B3-9A9D-122745A0013B}|SOLID_PRINCIPLE\\SOLID_PRINCIPLE.csproj|solutionrelative:solid_principle\\ocp\\desconto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5513CC7A-A108-46B3-9A9D-122745A0013B}|SOLID_PRINCIPLE\\SOLID_PRINCIPLE.csproj|c:\\projetos\\solid\\solid_principle\\solid_principle\\solid\\4_isp_itransporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5513CC7A-A108-46B3-9A9D-122745A0013B}|SOLID_PRINCIPLE\\SOLID_PRINCIPLE.csproj|solutionrelative:solid_principle\\solid\\4_isp_itransporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5513CC7A-A108-46B3-9A9D-122745A0013B}|SOLID_PRINCIPLE\\SOLID_PRINCIPLE.csproj|c:\\projetos\\solid\\solid_principle\\solid_principle\\srp\\geradorrelatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5513CC7A-A108-46B3-9A9D-122745A0013B}|SOLID_PRINCIPLE\\SOLID_PRINCIPLE.csproj|solutionrelative:solid_principle\\srp\\geradorrelatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5513CC7A-A108-46B3-9A9D-122745A0013B}|SOLID_PRINCIPLE\\SOLID_PRINCIPLE.csproj|c:\\projetos\\solid\\solid_principle\\solid_principle\\solid\\3_lsp_transporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5513CC7A-A108-46B3-9A9D-122745A0013B}|SOLID_PRINCIPLE\\SOLID_PRINCIPLE.csproj|solutionrelative:solid_principle\\solid\\3_lsp_transporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5513CC7A-A108-46B3-9A9D-122745A0013B}|SOLID_PRINCIPLE\\SOLID_PRINCIPLE.csproj|c:\\projetos\\solid\\solid_principle\\solid_principle\\solid\\1_ocp_desconto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5513CC7A-A108-46B3-9A9D-122745A0013B}|SOLID_PRINCIPLE\\SOLID_PRINCIPLE.csproj|solutionrelative:solid_principle\\solid\\1_ocp_desconto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5513CC7A-A108-46B3-9A9D-122745A0013B}|SOLID_PRINCIPLE\\SOLID_PRINCIPLE.csproj|c:\\projetos\\solid\\solid_principle\\solid_principle\\solid\\2_srp_geradorrelatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5513CC7A-A108-46B3-9A9D-122745A0013B}|SOLID_PRINCIPLE\\SOLID_PRINCIPLE.csproj|solutionrelative:solid_principle\\solid\\2_srp_geradorrelatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5513CC7A-A108-46B3-9A9D-122745A0013B}|SOLID_PRINCIPLE\\SOLID_PRINCIPLE.csproj|c:\\projetos\\solid\\solid_principle\\solid_principle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -47,32 +55,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Desconto.cs",
-              "DocumentMoniker": "C:\\Projetos\\Solid\\SOLID_PRINCIPLE\\SOLID_PRINCIPLE\\OCP\\Desconto.cs",
-              "RelativeDocumentMoniker": "SOLID_PRINCIPLE\\OCP\\Desconto.cs",
-              "ToolTip": "C:\\Projetos\\Solid\\SOLID_PRINCIPLE\\SOLID_PRINCIPLE\\OCP\\Desconto.cs",
-              "RelativeToolTip": "SOLID_PRINCIPLE\\OCP\\Desconto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Title": "4_ISP_ITransporte.cs",
+              "DocumentMoniker": "C:\\Projetos\\Solid\\SOLID_PRINCIPLE\\SOLID_PRINCIPLE\\SOLID\\4_ISP_ITransporte.cs",
+              "RelativeDocumentMoniker": "SOLID_PRINCIPLE\\SOLID\\4_ISP_ITransporte.cs",
+              "ToolTip": "C:\\Projetos\\Solid\\SOLID_PRINCIPLE\\SOLID_PRINCIPLE\\SOLID\\4_ISP_ITransporte.cs",
+              "RelativeToolTip": "SOLID_PRINCIPLE\\SOLID\\4_ISP_ITransporte.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACYAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T10:53:12.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "3_LSP_Transporte.cs",
+              "DocumentMoniker": "C:\\Projetos\\Solid\\SOLID_PRINCIPLE\\SOLID_PRINCIPLE\\SOLID\\3_LSP_Transporte.cs",
+              "RelativeDocumentMoniker": "SOLID_PRINCIPLE\\SOLID\\3_LSP_Transporte.cs",
+              "ToolTip": "C:\\Projetos\\Solid\\SOLID_PRINCIPLE\\SOLID_PRINCIPLE\\SOLID\\3_LSP_Transporte.cs",
+              "RelativeToolTip": "SOLID_PRINCIPLE\\SOLID\\3_LSP_Transporte.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAA0wBIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T10:38:33.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "1_OCP_Desconto.cs",
+              "DocumentMoniker": "C:\\Projetos\\Solid\\SOLID_PRINCIPLE\\SOLID_PRINCIPLE\\SOLID\\1_OCP_Desconto.cs",
+              "RelativeDocumentMoniker": "SOLID_PRINCIPLE\\SOLID\\1_OCP_Desconto.cs",
+              "ToolTip": "C:\\Projetos\\Solid\\SOLID_PRINCIPLE\\SOLID_PRINCIPLE\\SOLID\\1_OCP_Desconto.cs",
+              "RelativeToolTip": "SOLID_PRINCIPLE\\SOLID\\1_OCP_Desconto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-02T11:19:12.834Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "GeradorRelatorio.cs",
-              "DocumentMoniker": "C:\\Projetos\\Solid\\SOLID_PRINCIPLE\\SOLID_PRINCIPLE\\SRP\\GeradorRelatorio.cs",
-              "RelativeDocumentMoniker": "SOLID_PRINCIPLE\\SRP\\GeradorRelatorio.cs",
-              "ToolTip": "C:\\Projetos\\Solid\\SOLID_PRINCIPLE\\SOLID_PRINCIPLE\\SRP\\GeradorRelatorio.cs",
-              "RelativeToolTip": "SOLID_PRINCIPLE\\SRP\\GeradorRelatorio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "2_SRP_GeradorRelatorio.cs",
+              "DocumentMoniker": "C:\\Projetos\\Solid\\SOLID_PRINCIPLE\\SOLID_PRINCIPLE\\SOLID\\2_SRP_GeradorRelatorio.cs",
+              "RelativeDocumentMoniker": "SOLID_PRINCIPLE\\SOLID\\2_SRP_GeradorRelatorio.cs",
+              "ToolTip": "C:\\Projetos\\Solid\\SOLID_PRINCIPLE\\SOLID_PRINCIPLE\\SOLID\\2_SRP_GeradorRelatorio.cs",
+              "RelativeToolTip": "SOLID_PRINCIPLE\\SOLID\\2_SRP_GeradorRelatorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-02T11:13:04.847Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Projetos\\Solid\\SOLID_PRINCIPLE\\SOLID_PRINCIPLE\\Program.cs",
               "RelativeDocumentMoniker": "SOLID_PRINCIPLE\\Program.cs",
@@ -80,8 +114,7 @@
               "RelativeToolTip": "SOLID_PRINCIPLE\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T11:10:39.549Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-02T11:10:39.549Z"
             }
           ]
         }
