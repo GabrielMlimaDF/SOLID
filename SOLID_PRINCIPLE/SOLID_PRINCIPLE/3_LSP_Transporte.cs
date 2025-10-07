@@ -10,7 +10,7 @@ namespace SOLID_PRINCIPLE
 
     //Princípio afirma que objetos de uma classe derivada devem poder substituir objetos de sua classe base sem alterar a funcionalidade do programa.
 
-    //O segredo é se perguntar se perguntar se aquele método da classe faz sentido em todas as que vão derivar,
+    //O segredo é se perguntar se aquele método da classe faz sentido em todas as que vão derivar,
     //se não fizer sentido, o melhor é dividir em abstrações
     public abstract class Transporte
     {
